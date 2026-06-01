@@ -1,0 +1,2 @@
+[console_scripts]
+statrank = statrank.cli:main

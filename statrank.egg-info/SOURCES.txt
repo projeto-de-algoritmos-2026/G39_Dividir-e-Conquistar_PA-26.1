@@ -1,0 +1,14 @@
+README.md
+setup.py
+statrank/__init__.py
+statrank/algorithms.py
+statrank/cli.py
+statrank/loader.py
+statrank.egg-info/PKG-INFO
+statrank.egg-info/SOURCES.txt
+statrank.egg-info/dependency_links.txt
+statrank.egg-info/entry_points.txt
+statrank.egg-info/requires.txt
+statrank.egg-info/top_level.txt
+tests/__init__.py
+tests/test_algorithms.py
