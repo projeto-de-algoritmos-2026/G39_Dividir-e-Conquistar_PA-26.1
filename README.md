@@ -6,6 +6,10 @@ Desenvolvido como trabalho prático da disciplina **Projeto de Algoritmos**  mó
 
 ---
 
+# Vídeo de apresentação
+
+https://www.youtube.com/watch?v=FF0RWD1FrlA
+
 # Problema Real
 
 Em sistemas que processam grandes volumes de dados, como folhas de pagamento, resultados de exames, registros financeiros e bases governamentais, frequentemente é necessário encontrar percentis, medianas ou o k-ésimo menor valor.
@@ -96,7 +100,7 @@ python -m statrank.cli data/202601_Remuneracao.csv --colunas
 Selecionar uma coluna específica:
 
 ```bash
-python -m statrank.cli data/202601_Remuneracao.csv --percentil 50 --column REMUNERACAO_BASICA_BRUTA
+python -m statrank.cli data/202601_Remuneracao.csv --percentil 50 --column "REMUNERAÇÃO BÁSICA BRUTA (R$)"
 ```
 
 ---
@@ -252,7 +256,7 @@ python -m pytest tests/ -v
 
 ---
 
-# Autores
+# Autor
 
 * Eduardo de Almeida Morais
 
