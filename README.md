@@ -6,9 +6,17 @@ Desenvolvido como trabalho prático da disciplina **Projeto de Algoritmos**  mó
 
 ---
 
+# Autor
+
+* Eduardo de Almeida Morais - 231011275
+
+---
+
 # Vídeo de apresentação
 
 https://www.youtube.com/watch?v=FF0RWD1FrlA
+
+---
 
 # Problema Real
 
@@ -255,10 +263,6 @@ python -m pytest tests/ -v
 * Pytest
 
 ---
-
-# Autor
-
-* Eduardo de Almeida Morais
 
 Disciplina: Projeto de Algoritmos
 
